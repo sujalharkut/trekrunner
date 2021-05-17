@@ -1,5 +1,4 @@
-Open index.html file to play 
-Use Internet Explorer or host it on Google Chrome
+Open index.html file to play.
 
-Please give comments
+Use Internet Explorer or host it on Google Chrome.
 
